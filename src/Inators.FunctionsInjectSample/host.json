@@ -1,0 +1,5 @@
+{
+  "inject": {
+    "RegisterServicesAssemblyQualifiedName": "Inators.FunctionsInjectSample.RegisterServices, Inators.FunctionsInjectSample"
+  }
+}

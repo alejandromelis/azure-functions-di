@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inators.Azure.WebJobs.Extensions.Inject", "src\Inators.Azure.WebJobs.Extensions.Inject\Inators.Azure.WebJobs.Extensions.Inject.csproj", "{3A2E8598-FC6A-4D8F-A3AD-370BE0C08AE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inators.FunctionsInjectSample", "src\Inators.FunctionsInjectSample\Inators.FunctionsInjectSample.csproj", "{95E316F3-3C6B-4A85-B62D-C5C3313A4B07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D83274DC-5984-452F-8D17-8048ECEB2152}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2E8598-FC6A-4D8F-A3AD-370BE0C08AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2E8598-FC6A-4D8F-A3AD-370BE0C08AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2E8598-FC6A-4D8F-A3AD-370BE0C08AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2E8598-FC6A-4D8F-A3AD-370BE0C08AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E316F3-3C6B-4A85-B62D-C5C3313A4B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E316F3-3C6B-4A85-B62D-C5C3313A4B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E316F3-3C6B-4A85-B62D-C5C3313A4B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E316F3-3C6B-4A85-B62D-C5C3313A4B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A049519-D39C-4B3A-97B2-5AA59885E1C9}
+	EndGlobalSection
+EndGlobal
